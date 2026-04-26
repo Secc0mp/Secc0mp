@@ -23,7 +23,7 @@ I am Secc0mp, an Android reverse engineering learner.
 </a>
 
 <a href="https://hex-rays.com/ida-pro/" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/IDA_Pro_logo.svg" alt="IDA" height="42px"/>
+  <img align="left" src="[https://upload.wikimedia.org/wikipedia/commons/6/6f/IDA_Pro_logo.svg](https://hex-rays.com/hubfs/logo.svg)" alt="IDA" height="42px"/>
 </a>
 
 <a href="https://github.com/zhkl0228/unidbg" target="_blank">
