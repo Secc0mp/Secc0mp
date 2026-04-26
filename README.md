@@ -14,28 +14,33 @@ I am Secc0mp, an Android reverse engineering learner.
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.iso.org/standard/74528.html" target="_blank"> 
-    <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"/> 
-</a>
-<a href="https://isocpp.org/" target="_blank"> 
-    <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cplusplus/cplusplus.svg"/> 
-</a>
-<a href="https://developer.android.com" target="_blank"> 
-    <img align="left" alt="Android" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank"> 
-    <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg"/> 
-</a>
-<a href="https://frida.re/" target="_blank"> 
-    <img align="left" alt="Frida" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/frida/frida.svg"/> 
-</a>
-<a href="https://hex-rays.com/ida-pro/" target="_blank"> 
-    <img align="left" alt="IDA" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" style="filter: hue-rotate(150deg);"/> 
-</a>
-<a href="https://github.com/zhkl0228/unidbg" target="_blank"> 
-    <img align="left" alt="Unidbg" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"/> 
+<a href="https://isocpp.org/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="42px"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="42px"/>
+</a>
+
+<a href="https://hex-rays.com/ida-pro/" target="_blank">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/IDA_Pro_logo.svg" alt="IDA" height="42px"/>
+</a>
+
+<a href="https://github.com/zhkl0228/unidbg" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/zhkl0228/unidbg/master/assets/unidbg.png" alt="unidbg" height="42px"/>
+</a>
+
+<a href="https://frida.re/" target="_blank">
+  <img align="left" src="https://frida.re/img/logotype.svg" alt="frida" height="42px"/>
+</a>
+
+<a href="https://developer.android.com" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="42px"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="42px"/>
+</a>
 <br>
 
 
